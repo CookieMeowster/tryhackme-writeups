@@ -4,7 +4,8 @@
 1. Learned the basics of Offensive Security implementing a hacker mentality
 2. Learned the basics of Defensive Security implementing a cyber defender mentality
 3. Learned about different opportunities in Cyber Security
-4. Learned the importance of ethically hacking legally 
+4. Learned the importance of ethically hacking legally
+5. Learned new some terminology and what they do
 
 # What tripped me up
 Nothing major
