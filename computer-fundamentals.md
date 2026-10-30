@@ -3,7 +3,6 @@
 # What I did
 1. Rebuilt a machine in a virtual forensics simulation to recover data
 2. Learned the different components in that machine and how it works
-3. 
 
 # What tripped me up
 I had to remove the HDD and leave the SSD to complete this exercise and that confused me for a moment
