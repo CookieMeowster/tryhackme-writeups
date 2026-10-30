@@ -11,6 +11,6 @@ I didn't think you can get the data you needed with just the SSD I thought the H
 After I finished this room I came across a paywall and well I'm gonna have to find another module for another room
 
 ## What I learned
-I learned the different components in a PC and their placement
-I learned you can collect needed data with just the SSD
-I learned that I'm broke and in desperate need of money due to this paywall
+1. I learned the different components in a PC and their placement
+2. I learned you can collect needed data with just the SSD
+3. I learned that I'm broke and in desperate need of money due to this paywall
