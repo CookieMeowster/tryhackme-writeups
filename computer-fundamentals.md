@@ -7,7 +7,7 @@
 # What tripped me up
 I had to remove the HDD and leave the SSD to complete this exercise and that confused me for a moment
 I didn't think you can get the data you needed with just the SSD I thought the HDD gave the important stuff
-After I finished this room I came across a paywall and well I'm gonna have to find another module for another room
+After I finished this room I came across a paywall and well I'm gonna have to find another module for other rooms I can work on
 
 ## What I learned
 1. I learned the different components in a PC and their placement
