@@ -17,6 +17,6 @@ even gets involved. Also gained hands-on experience with a virtual machine to ex
 Questions covering the rooms above.
 
 ## What Tripped Me Up
-OS Intro tripped me up when it was asking how many directories exist in the virtual machine (my free PC!) I was given by imaginary friend Alex. I thought it was only counting the folders called "Alex" and "Guest". But as it turns out it was also including the Ubuntu Applications folder.
+OS Intro tripped me up when it was asking how many directories exist in the virtual machine (my free PC!) that was given by imaginary friend Alex. I thought it was only counting the folders called "Alex" and "Guest". But as it turns out it was also including the Ubuntu Applications folder.
 
 ## What I Learned
