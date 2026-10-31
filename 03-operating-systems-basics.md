@@ -21,5 +21,5 @@ OS Intro tripped me up when it was asking how many directories exist in the virt
 
 ## What I Learned
 1. I realize how terrifying it is to give an app kernel access (AKA Riot Vanguard). That's also the reason kernel/user space separation exists. If every app had that access, your PC would be one bad update away from
-getting bricked. Talk about scurry.
+getting bricked. Talk about scurry... please be gentle. 
 2. 
