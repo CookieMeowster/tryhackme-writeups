@@ -1,6 +1,6 @@
 # Introduction to Cyber Security
 
-**Module:** [Introduction to Cyber Security](https://tryhackme.com/paths)
+**Module:** [Introduction to Cyber Security] 
 **Completed:** October 2026
 
 ## Room: [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
