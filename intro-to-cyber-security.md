@@ -7,7 +7,7 @@
 Learned the basics of offensive security and implementing a hacker mentality.
 
 ## Room: [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
-Learned the basics of defensive security threat intelligence, SOC, DFIR, malware analysis, and SIEM.
+Learned the basics of defensive security: threat intelligence, SOC, DFIR, malware analysis, and SIEM.
 
 ## Room: [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 Learned about the different opportunities in cybersecurity.
