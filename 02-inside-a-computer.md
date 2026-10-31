@@ -1,6 +1,5 @@
 # Inside a Computer
 
-**Type:** Single room
 **Room:** [Inside a Computer](https://tryhackme.com/room/insideacomputer)
 **Module:** Computer Fundamentals
 **Completed:** October 2026   
