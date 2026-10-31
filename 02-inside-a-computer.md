@@ -16,4 +16,4 @@ After I finished this room I was cut off by a paywall and I'm gonna have to find
 ## What I Learned
 1. The different components in a PC and their placement.
 2. You can collect needed data with just the SSD.
-3. Free rooms are more limited than I expected so I need to find a free IR path.   
+3. Free rooms are more limited than I expected so I need to find a free modules and rooms.   
