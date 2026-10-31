@@ -1,6 +1,6 @@
 # 
 
-**Module:** [Operating Systems basics ](https://tryhackme.com/paths )
+**Module:** [Operating Systems basics ]
 **Completed:** October 2026
 
 ## Room: [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction )
