@@ -1,8 +1,8 @@
 # Inside a Computer
 
 **Module:** Computer Fundamentals
-**Room:** [Inside a Computer](https://tryhackme.com/room/insideacomputer)
 **Completed:** October 2026
+**Room:** [Inside a Computer](https://tryhackme.com/room/insideacomputer)
 
 ## What I Did
 1. Rebuilt a machine in a virtual forensics simulation to recover data
