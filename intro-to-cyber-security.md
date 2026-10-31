@@ -22,4 +22,4 @@ Nothing major! This module was mostly conceptual brain food, so there wasn't a t
 1. The importance of ethically hacking legally.
 2. That dirb is a real tool I can use to find hidden pages on a site.
 3. That blocking an IP is an actual containment action, not just theory.
-4. The different career paths in cybersecurity and where IR fits.
+4. The different career paths in cybersecurity and and I grew an interest in IR.
