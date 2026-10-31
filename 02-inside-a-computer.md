@@ -1,7 +1,7 @@
 # Inside a Computer
 
-**Room:** [Inside a Computer](https://tryhackme.com/room/insideacomputer)
 **Module:** Computer Fundamentals
+**Room:** [Inside a Computer](https://tryhackme.com/room/insideacomputer)
 **Completed:** October 2026
 
 ## What I Did
