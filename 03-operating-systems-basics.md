@@ -3,7 +3,7 @@
 **Module:** [ ]( )
 **Completed:** October 2026
 
-## Room: [ ]( )
+## Room: [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction )
 
 
 ## Room: [ ]( )
