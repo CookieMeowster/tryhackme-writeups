@@ -1,8 +1,9 @@
 # Inside a Computer
 
-**Module:** Computer Fundamentals
-**Completed:** October 2026
+**Type:** Single room
 **Room:** [Inside a Computer](https://tryhackme.com/room/insideacomputer)
+**Module:** Computer Fundamentals
+**Completed:** October 2026   
 
 ## What I Did
 1. Rebuilt a machine in a virtual forensics simulation to recover data
@@ -14,6 +15,6 @@ I didn't think you could get the data you needed with just the SSD I honestly th
 After I finished this room I was cut off by a paywall and I'm gonna have to find another module for other rooms I can work on.
 
 ## What I Learned
-1. The different components in a PC and their placement
-2. You can collect needed data with just the SSD
-3. Free rooms are more limited than I expected I need to find a free IR path   
+1. The different components in a PC and their placement.
+2. You can collect needed data with just the SSD.
+3. Free rooms are more limited than I expected so I need to find a free IR path.   
