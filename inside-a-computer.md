@@ -10,7 +10,7 @@
 
 ## What Tripped Me Up
 I had to remove the HDD and leave the SSD to complete this exercise and that confused me for a moment.
-I didn't think you could get the data you needed with just the SSD — I thought the HDD had the important stuff.
+I didn't think you could get the data you needed with just the SSD I honestly thought the HDD had the important stuff.
 After I finished this room I was cut off by a paywall and I'm gonna have to find another module for other rooms I can work on.
 
 ## What I Learned
