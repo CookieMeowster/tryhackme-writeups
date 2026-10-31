@@ -8,7 +8,7 @@ The OS (big buh buh) runs the kernel with full hardware access, handles all the 
 even gets involved. Also gained hands-on experience with a virtual machine to explore the OS on a deeper level.
 
 
-## Room: [ ]( )
+## Room: [Windows Basics](https://tryhackme.com/room/windowsbasics)
 
 
 ## Room: [ ]( )
