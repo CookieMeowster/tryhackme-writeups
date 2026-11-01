@@ -3,7 +3,7 @@
 **Module:** Operating Systems basics
 **Completed:** October 2026
 
-## Room: [Operating Systems:Introduction](https://tryhackme.com/room/operatingsystemsintroduction )
+## Room: [Operating Systems:Introduction](https://tryhackme.com/room/operatingsystemsintroduction)
 The OS (big buh buh) runs the kernel with full hardware access, handles all the daily grind (processes, memory, files, drivers), and acts as the bouncer enforcing permissions and isolation before any other security tool 
 even gets involved. Also gained hands-on experience with a virtual machine to explore the OS on a deeper level.
 
