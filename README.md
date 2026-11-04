@@ -13,4 +13,4 @@ Notes from TryHackMe rooms I'm working through for cybersecurity fundamentals.
 ## In Progress
 
 - [ ] [Software Basics](https://tryhackme.com/module/software-basics)
-- [ ] Networking Fundamentals 
+- [ ] [Networking Fundamentals]() 
