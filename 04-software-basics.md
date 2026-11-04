@@ -3,7 +3,7 @@
 **Module:** Operating Systems basics
 **Completed:** Nov 2026
 
-## Room: [](https://tryhackme.com/room/datarepresentation)
+## Room: [Data Representation](https://tryhackme.com/room/datarepresentation)
 
 ## Room: []()
 
