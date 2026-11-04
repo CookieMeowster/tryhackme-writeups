@@ -12,7 +12,7 @@ I learn how characters become numbers: ASCII, Unicode, and the different ways a 
 ## Room: []()
 
 ## What Tripped Me Up
-I got tripped up learning binary for a moment because TryHackMe made it more complicated than it needed to be. All I have to do is look at what's on and what's off in the 1s and 0s, and the place value always doubles as you go left. So 4 bits like 0000 has place values of 8, 4, 2, 1, and that literally means the value is 0 because all the bits are off. It doesn't add up any of the 8, 4, 2, 1 because nothing is on. The number of bits is just how many digits are in the binary number. If it's 5 bits, the pattern extends to 16, 8, 4, 2, 1. Why the heck did TryHackMe have to make it so complicated when it's so simple. And the reason it goes by 2s is because binary only has two digits: 0 and 1. Count them, it's 2. That's the whole reason.
+I got tripped up learning binary because TryHackMe made it sound more complicated than it is. All you do is look at which lights are on and add up their place values. 4 bits = 8, 4, 2, 1. If nothing's on, the answer is 0. The place values double going left because binary only has two digits. That's the whole thing. Why the heck did they make it so complicated.
 
 ## What I Learned
 1. I learned that 8 bits is a byte and a tiny cute nibble is 4 bits.
