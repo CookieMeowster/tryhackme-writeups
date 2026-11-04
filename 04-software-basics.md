@@ -9,8 +9,6 @@ Computers speak different languages: binary, hex, and 8 bits becomes color. This
 ## Room: [Data Encoding](https://tryhackme.com/room/dataencoding)
 I learn how characters become numbers: ASCII, Unicode, and the different ways a computer maps "A" to a value. Also why our logs sometimes look like garbage and how bad guys use encoding mismatches to slip past filters.
 
-## Room: []()
-
 ## What Tripped Me Up
 I got tripped up learning binary because TryHackMe made it sound more complicated than it is. All you do is look at which lights are on and add up their place values. 4 bits = 8, 4, 2, 1. If nothing's on, the answer is 0. The place values double going left because binary only has two digits. That's the whole thing. Why the heck did they make it so complicated.
 
