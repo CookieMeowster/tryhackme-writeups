@@ -17,3 +17,5 @@ I got tripped up learning binary because TryHackMe made it sound more complicate
 2. Binary is just "which lights are on" and then you add up their values. That's the whole thing.
 3. Hex is just binary with a shorter label. One hex digit = 4 bits. 1111 is too long to write every time, so we call it F.
 4. I learned why people dislike hexadecimal... so much memorization. But I know the more I do this, it'll become automatic. Like how I don't "calculate" what the letter T looks like when I read a word. I just see it.
+5. ASCII is just numbers → characters. 65 = A. That's the whole thing.
+6. Encoding mismatches matter because attackers hide stuff in hex so a filter looking for "SELECT" just sees numbers and lets it through.
