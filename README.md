@@ -12,4 +12,5 @@ Notes from TryHackMe rooms I'm working through for cybersecurity fundamentals.
 | [Software Basics](https://tryhackme.com/module/software-basics)  | binary, hex, ASCII, Unicode, encoding mismatches |  
 ## In Progress
 
-- [ ] [Networking Fundamentals]() 
+- [ ] [Networking Fundamentals](https://tryhackme.com/module/network-fundamentals)
+- [ ] [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c)
