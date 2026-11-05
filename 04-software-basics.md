@@ -10,9 +10,7 @@ Computers speak different languages: binary, hex, and 8 bits becomes color. This
 I learn how characters become numbers: ASCII, Unicode, and the different ways a computer maps "A" to a value. Also why our logs sometimes look like garbage and how bad guys use encoding mismatches to slip past filters.
 
 ## What Tripped Me Up
-I got tripped up learning binary because TryHackMe made it sound more complicated than it is. All you do is look at which lights are on and add up their place values. 4 bits = 8, 4, 2, 1. If nothing's on, the answer is 0. The place values double going left because binary only has two digits. That's the whole thing. Why the heck did they make it so complicated.
-
-## What I Learned
+I got tripped up learning binary because TryHackMe made it sound more complicated than it is. All you do is look at which lights are on and add up their place values. 4 bits = 8, 4, 2, 1. If nothing's on, the answer is 0. The place values double going left because binary only has two digits. That's the whole thing. Why the heck did they make it so complicated. ASCII is still a bit confusing but I got the main thought process down, which is that letters are just numbers in disguise. A is 65. That's how hackers can hide their code by flipping ASCII into hex so a filter looking for "SELECT" just sees a string of digits and lets it through. It's still confusing but the more I do this the more it will stick.
 1. I learned that 8 bits is a byte and a tiny cute nibble is 4 bits.
 2. Binary is just "which lights are on" and then you add up their values. That's the whole thing.
 3. Hex is just binary with a shorter label. One hex digit = 4 bits. 1111 is too long to write every time, so we call it F.
