@@ -19,3 +19,4 @@ I got tripped up learning binary because TryHackMe made it sound more complicate
 4. I learned why people dislike hexadecimal... so much memorization. But I know the more I do this, it'll become automatic. Like how I don't "calculate" what the letter T looks like when I read a word. I just see it.
 5. ASCII is just numbers → characters. 65 = A. That's the whole thing.
 6. Encoding mismatches matter because attackers hide stuff in hex so a filter looking for "SELECT" just sees numbers and lets it through.
+7. Unicode is just ASCII's bigger sibling. It covers characters from every language instead of just English. More characters = more ways for stuff to look weird in a log. "Awesome sauce"...
