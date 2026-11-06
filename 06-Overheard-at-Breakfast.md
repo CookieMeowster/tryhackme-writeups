@@ -1,4 +1,4 @@
-## This is a TryHackMeEvent so i screenshot the progress
+# This is a TryHackMeEvent so i screenshot the progress
 
 ### Step 1: The screenshot
 
