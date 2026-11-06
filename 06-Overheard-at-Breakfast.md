@@ -1,3 +1,5 @@
+This is a TryHackMeEvent so i screenshot the progress
+
 ### Step 1: The screenshot
 
 ![overheard-1](overheard-1.png)
@@ -17,5 +19,9 @@ Found the hash. Now I go look it up in terminal.
 
 Here's the hash. I'm gonna use it on gravatar to find the account.
 
-## Step 4 Enter it all in my browser and find the account!
+### Step 4 Enter it all in my browser and find the account!
 ![overheard-4](overheard-4.png)
+
+The account. [ I found The account and it had this: VEhNe1MzY3JlVF9QcjBmaWwzX0g0c19iMzNuX0lkZW50MWZpM2R9] / the room says its 64 encoding and I need to decode it to get the anwser I need to beat the room!]
+
+### Step 5 Enter the decoded code to finish the room!
