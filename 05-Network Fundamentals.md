@@ -16,5 +16,6 @@ What's actually happening on your local network when you plug in. Switches, rout
 1. A network is just... things connected. Friendship circles, power grids, postal systems. Same idea, different things doing the connecting. For cybersecurity, it's specifically devices talking to each other.
 2. The internet is the plumbing. Cables, routers, TCP/IP. The web (websites, your browser) is just the most visible thing running on top of it. Tim Berners-Lee built the web, not the internet. Don't mix them up.
 3. A router is the door between your private network and the public internet. Your switch handles "laptop to printer." The router handles "laptop to the outside world." Without it, your packets just die at the wall.
-4. The internet is literally "inter-network." Many small networks joined together. Yours, your neighbor's, your ISP's, all the way up to the backbone. That's the whole thing.
-5. Public network = anyone can reach it. Private network = you have to be invited. Your home WiFi is private. The internet is public. Your company's internal servers? Private. "why can't I just reach my neighbor's office room server" question answered.
+4. The internet is literally "inter-network." Many small networks joined together. Yours, your neighbor's, your ISP's, all the way up to the backbone.
+5. Public network = anyone can reach it. Private network = you have to be invited. Your home WiFi is private. The internet is public. Your company's internal servers? Private. "Why can't I just reach my neighbor's office room server" that question's been answered.
+6. 
