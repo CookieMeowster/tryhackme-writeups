@@ -4,7 +4,7 @@
 
 The conversation I'm "overhearing." Looking for a name or handle.
 
-### Step 2: Finding the account
+### Step 2: Finding the account. Learned md5 hashing
 
 ![overheard-2](overheard-2.png)
 
