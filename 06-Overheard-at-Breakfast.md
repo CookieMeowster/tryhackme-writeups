@@ -1,6 +1,6 @@
 # This is a TryHackMeEvent so i screenshot the progress
 
-### Step 1: The screenshot
+### Step 1: The screenshot of conversation 
 
 ![overheard-1](overheard-1.png)
 
