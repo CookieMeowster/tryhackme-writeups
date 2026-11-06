@@ -1,4 +1,5 @@
-# This is a TryHackMeEvent so i screenshot the progress
+
+# Note: This was a time-limited TryHackMe event room. The link may no longer be active, but the write-up and screenshots below are permanent.
 
 ### Step 1: The screenshot of conversation 
 
