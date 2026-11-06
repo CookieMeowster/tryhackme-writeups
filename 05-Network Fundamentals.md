@@ -10,6 +10,7 @@ The "why does any of this even work" room. How data actually gets from point A t
 What's actually happening on your local network when you plug in. Switches, routers, MAC addresses, and why your laptop can talk to your printer but not to a server in your neighbor's office room. (Don't ask how I know about their office)
 
 ## What Tripped Me Up
+MAC spoofing tripped me up because I kept thinking the attacker had to "hack the switch" or break into it somehow. They didn't. They just... lied. Changed their MAC to match a trusted one and the switch let them through because it only reads the name tag on the packet, not the actual device. I was overthinking it like it was this complex exploit when it's just "the bouncer checks your name tag but never your ID." Also the whole "how did they even know which MAC to spoof" part took me a sec. You just look at what's already registered (ARP table, whatever) and copy it. Just a copy-paste job and no magic. :(
 
 ## What I learned
 
@@ -18,4 +19,4 @@ What's actually happening on your local network when you plug in. Switches, rout
 3. A router is the door between your private network and the public internet. Your switch handles "laptop to printer." The router handles "laptop to the outside world." Without it, your packets just die at the wall.
 4. The internet is literally "inter-network." Many small networks joined together. Yours, your neighbor's, your ISP's, all the way up to the backbone.
 5. Public network = anyone can reach it. Private network = you have to be invited. Your home WiFi is private. The internet is public. Your company's internal servers? Private. "Why can't I just reach my neighbor's office room server" that question's been answered.
-6. 
+6.MAC spoofing is just lying to the switch about who you are. The switch checks the name tag on the packet, not the actual device. You change your MAC to match a trusted one (macchanger -m <trusted-MAC> eth0) and the switch lets you through because it only reads one field. The bouncer checks your name tag but never your ID. That's the whole vulnerability. 
