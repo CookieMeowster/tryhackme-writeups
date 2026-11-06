@@ -2,7 +2,7 @@
 
 ![overheard-1](overheard-1.png)
 
-The conversation I'm "overhearing." Looking for a name or handle.
+The conversation I'm "overhearing." Looking for a name, handle, or email.
 
 Found: lambobytelotushotel@gmail.com
 It's a gravatar account
