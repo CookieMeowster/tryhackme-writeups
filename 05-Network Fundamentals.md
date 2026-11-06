@@ -3,10 +3,10 @@
 **Module:** [Network Fundamentals]
 **Completed:** Nov 2026
 
-## Room: [Data Representation](https://tryhackme.com/room/datarepresentation)
+## Room: []()
 
 
-## Room: [Data Encoding](https://tryhackme.com/room/dataencoding)
+## Room: []()
 
 
 ## What Tripped Me Up
