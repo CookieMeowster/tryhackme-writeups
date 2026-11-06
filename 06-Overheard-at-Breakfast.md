@@ -1,6 +1,6 @@
 ### Step 1: The screenshot
 
-![overheard-1](overheaded-1.png)
+![overheard-1]()
 
 The conversation I'm "overhearing." Looking for a name or handle.
 
