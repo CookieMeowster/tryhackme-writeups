@@ -4,10 +4,8 @@
 
 The conversation I'm "overhearing." Looking for a name, handle, or email.
 
-Found: lambobytelotushotel@gmail.com
-It's a gravatar account
 
-### Step 2: Finding the account. Learned md5 hashing
+### Step 2: Found it: lambobytelotushotel@gmail.com. "Started with a G" hint = Gravatar.Learned md5 hashing
 
 ![overheard-2](overheard-2.png)
 
