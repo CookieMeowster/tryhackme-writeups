@@ -1,6 +1,6 @@
 # Network Fundamentals
 
-**Module:** Operating Systems basics
+**Module:** [Network Fundamentals]
 **Completed:** Nov 2026
 
 ## Room: [Data Representation](https://tryhackme.com/room/datarepresentation)
