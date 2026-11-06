@@ -9,7 +9,7 @@ The conversation I'm "overhearing." Looking for a name, handle, or email.
 
 ![overheard-2](overheard-2.png)
 
-Found the handle. Now I go look it up.
+Found the hash. Now I go look it up in terminal.
 
 ### Step 3: The hash
 
