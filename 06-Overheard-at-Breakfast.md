@@ -27,3 +27,4 @@ The account. [ I found The account and it had this: VEhNe1MzY3JlVF9QcjBmaWwzX0g0
 ### Step 5 Enter the 64 encoding into terminal! Get the decoding and enter my answer into the room to finish! Yay!
 ![overheard-5](overheard-5.png)
 
+I got it! :D
