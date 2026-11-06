@@ -15,4 +15,7 @@ Found the hash. Now I go look it up in terminal.
 
 ![overheard-3](overheard-3.png)
 
-Here's the hash. Cracking it gives me the account.
+Here's the hash. I'm gonna use it on gravatar to find the account.
+
+## Step 4 Enter it all in my browser and find the account!
+![overheard-4](overheard-4.png)
