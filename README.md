@@ -11,7 +11,7 @@ Notes from TryHackMe rooms I'm working through for cybersecurity fundamentals.
 | [Operating Systems Basics](https://tryhackme.com/module/operating-systems-basics) | kernel/user space, OS duties, Windows GUI, Task Manager, security scans |  
 | [Software Basics](https://tryhackme.com/module/software-basics)  | binary, hex, ASCII, Unicode, encoding mismatches |  
 | [Networking Fundamentals](https://tryhackme.com/module/network-fundamentals)  | networks, internet vs web, routers, switches, MAC addresses, MAC spoofing, IP basics |  
-| [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | Overheard at Breakfast | OSINT, Gravatar, MD5 hashing, base64 decoding |
+| [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | OSINT, Gravatar, MD5 hashing, base64 decoding |
 
 ## In Progress
 
