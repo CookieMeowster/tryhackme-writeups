@@ -6,7 +6,7 @@
 ## Room: [DNS in Detail](https://tryhackme.com/room/dnsindetail)
 
 
-## Room: []()
+## Room: [HTTP in Detail](https://tryhackme.com/room/httpindetail)
 
 
 ## What Tripped Me Up
