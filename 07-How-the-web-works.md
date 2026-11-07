@@ -3,8 +3,7 @@
 **Module:** [How The Web Works]
 **Completed:** November 2026
 
-## Room: []()
-
+## Room: [DNS in Detail](https://tryhackme.com/room/dnsindetail)
 
 ## Room: []()
 
