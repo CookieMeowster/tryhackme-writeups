@@ -13,4 +13,10 @@ What actually happens between "I clicked the link" and "the page loaded." Reques
 
 
 ## What I Learned
-1. 
+1. TLD (Top Level Domain) is on the right-hand part of a domain name like ".com".
+2. There are two types of TLD. That's gTLD (Generic Top Level Domain) and ccTLD (Country Code Top Level Domain).
+3. A gTLD is there to tell the user the domain's purpose (ex: ".com" is commercial).
+4. A ccTLD is used for geographical purposes (ex: ".ca" means it's based in Canada)
+5. Second Level Domain is the name you give your domain and gives it a personality ("tryhackme.com" it's the TryHackMe part).
+6. Subdomain is the left-hand side of a Second Level Domain, separated by a period. (ex: www.tryhackme.com it's the "www." part)
+7. 
