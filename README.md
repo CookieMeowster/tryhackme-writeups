@@ -15,4 +15,4 @@ Notes from TryHackMe rooms I'm working through for cybersecurity fundamentals.
 
 ## In Progress
 
-- [ ] 
+- [ ] [How The Web Works](https://tryhackme.com/module/how-the-web-works)
