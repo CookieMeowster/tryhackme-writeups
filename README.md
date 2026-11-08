@@ -12,7 +12,8 @@ Notes from TryHackMe rooms I'm working through for cybersecurity fundamentals.
 | [Software Basics](https://tryhackme.com/module/software-basics)  | binary, hex, ASCII, Unicode, encoding mismatches |  
 | [Networking Fundamentals](https://tryhackme.com/module/network-fundamentals)  | networks, internet vs web, routers, switches, MAC addresses, MAC spoofing, IP basics |  
 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | OSINT, Gravatar, MD5 hashing, base64 decoding |
+| [How The Web Works](https://tryhackme.com/module/how-the-web-works) | DNS, domain resolution, HTTP, HTTPS, URLs, ports, query strings, response headers |
 
 ## In Progress
 
-- [ ] [How The Web Works](https://tryhackme.com/module/how-the-web-works)
+- [ ]
