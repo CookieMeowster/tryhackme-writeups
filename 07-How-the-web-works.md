@@ -10,7 +10,7 @@ The "how does a name become an address" room. Your browser types google.com, but
 What actually happens between "I clicked the link" and "the page loaded." Requests, responses, status codes, and why your coffee order (see cafe bot) is technically an HTTP request.
 
 ## What Tripped Me Up
-
+The "what happens when I make a DNS request" part confused me at first. I kept overthinking the root to TLD to authoritative chain and it just didn't click. Once it did, it was basically just your computer remembering what you've visited (the recursive server, usually from your ISP). The root server is the reception desk pointing you to the right department. The authoritative server is the one that actually has the answer, and the TTL is how long your computer keeps that memory before it expires.
 
 ## What I Learned
 1. TLD (Top Level Domain) is on the right-hand part of a domain name like ".com".
@@ -21,4 +21,4 @@ What actually happens between "I clicked the link" and "the page loaded." Reques
 6. Subdomain is the left-hand side of a Second Level Domain, separated by a period. (ex: www.tryhackme.com it's the "www." part)
 7. DNS is more versatile than I thought. It can be used as an A Record, AAAA Record, CNAME Record, MX Record, and TXT Record. So many records!
 8. A = sends a domain to an IPv4 address, AAAA = same thing but for IPv6, CNAME = sends a domain to another domain (an alias), MX = tells email where to go, and TXT = stores text, mostly for verification (like "this domain is owned by twinkletoes").
-9. 
+
