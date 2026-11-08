@@ -22,3 +22,8 @@ The "what happens when I make a DNS request" part confused me at first. I kept o
 7. DNS is more versatile than I thought. It can be used as an A Record, AAAA Record, CNAME Record, MX Record, and TXT Record. So many records!
 8. A = sends a domain to an IPv4 address, AAAA = same thing but for IPv6, CNAME = sends a domain to another domain (an alias), MX = tells email where to go, and TXT = stores text, mostly for verification (like "this domain is owned by twinkletoes").
 9. HTTPS (HyperText Transfer Protocol Secure) is a secure version of HTTP (HyperText Transfer Protocol). HTTPS makes sure that other people can't see your data and makes sure you get to your destination on the web.
+10. URL = Uniform Resource Locator. 
+11. Scheme insturct's what protocol to use when accessing a resource on the internet (ex: HTTP, HTTPS, FTP [File Transfer Protocol]).
+12. I didn't know you could put the "User" into the URL to login! Both username and password! whaaat!?
+13. The Host is the domain name or IP address of the server you wanna get on (ex: "TryHackMe" in TryHackMe.com)
+14. A Port has specific numbers for the type of Scheme the resource is using. (ex: 80 for HTTP, 443 for HTTPS) but it goes from 1 to 65535.
