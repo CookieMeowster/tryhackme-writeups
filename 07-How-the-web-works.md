@@ -26,4 +26,9 @@ The "what happens when I make a DNS request" part confused me at first. I kept o
 11. Scheme insturct's what protocol to use when accessing a resource on the internet (ex: HTTP, HTTPS, FTP [File Transfer Protocol]).
 12. I didn't know you could put the "User" into the URL to login! Both username and password! whaaat!?
 13. The Host is the domain name or IP address of the server you wanna get on (ex: "TryHackMe" in TryHackMe.com)
-14. A Port has specific numbers for the type of Scheme the resource is using. (ex: 80 for HTTP, 443 for HTTPS) but it goes from 1 to 65535.
+14. A Port has specific numbers for the type of Scheme the resource is using. (ex: 80 for HTTP, 443 for HTTPS) but it goes from 1 to 65535. 
+15. Path is the file name or location of the thing you're trying to access on a website. (ex: the path in TryHackMe.com/room/dnsindetail is /room/dnsindetail)
+16. Query String is extra bits of information attached to a path. (ex: "/blog?id=1" tells the computer to receive the blog article with the id of 1)
+17. Fragment (the # part) is a reference to a spot within a page. It's used for pages with long content so you can link directly to a section. It's handled by your browser, not the server, so the page jumps you there as soon as you load it.
+## URL Visual of what I'm talking about below:
+[How-The-Web-Works-1](How-The-Web-Works-1.png)
