@@ -21,4 +21,4 @@ The "what happens when I make a DNS request" part confused me at first. I kept o
 6. Subdomain is the left-hand side of a Second Level Domain, separated by a period. (ex: www.tryhackme.com it's the "www." part)
 7. DNS is more versatile than I thought. It can be used as an A Record, AAAA Record, CNAME Record, MX Record, and TXT Record. So many records!
 8. A = sends a domain to an IPv4 address, AAAA = same thing but for IPv6, CNAME = sends a domain to another domain (an alias), MX = tells email where to go, and TXT = stores text, mostly for verification (like "this domain is owned by twinkletoes").
-
+9. HTTPS (HyperText Transfer Protocol Secure) is a secure version of HTTP (HyperText Transfer Protocol). HTTPS makes sure that other people can't see your data and makes sure you get to your destination on the web.
