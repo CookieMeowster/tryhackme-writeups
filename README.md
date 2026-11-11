@@ -17,4 +17,4 @@ Notes from TryHackMe rooms I'm working through for cybersecurity fundamentals.
 
 ## In Progress
 
-- [ ]
+- [ ] [Attacks and Defenses](https://tryhackme.com/module/attacks-and-defenses)
